@@ -6,7 +6,6 @@
 # <bitbar.author>akira-hamada</bitbar.author>
 # <bitbar.author.github>akira-hamada</bitbar.author.github>
 # <bitbar.desc>GitHub Assigned Pull Request Counter</bitbar.desc>
-# <bitbar.image></bitbar.image>
 # <bitbar.dependencies>ruby</bitbar.dependencies>
 # <bitbar.abouturl>https://github.com/akira-hamada/github-assigned-pr-counter</bitbar.abouturl>
 
